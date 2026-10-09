@@ -1,1 +1,5 @@
-C++/
+*.o
+__pycache__/
+*.py[cod]
+build/
+*.exe
